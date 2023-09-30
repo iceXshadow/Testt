@@ -1,0 +1,9 @@
+<svg width="90" height="36" viewBox="0 0 90 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="90" height="36" rx="18" fill="#7A7A7A"/>
+<ellipse cx="18.9218" cy="18.0005" rx="13.4174" ry="13.346" fill="white"/>
+<mask id="mask0_0_835" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="5" y="4" width="28" height="28">
+<ellipse cx="18.9218" cy="18.0005" rx="13.4174" ry="13.346" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_835)">
+</g>
+</svg>
